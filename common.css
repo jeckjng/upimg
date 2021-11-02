@@ -1,0 +1,29 @@
+input{
+     width: 500px;
+ }
+.radio_type input{
+    width: 0px;
+}
+.img_div{
+    display: inline-block;
+    width: 506px;
+    border: 2px solid #dce4ec;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 3px;
+    padding: 0px 2px;
+}
+.img_div input{
+    float: left;
+    width: 447px;
+    vertical-align: middle;
+    background: none;
+    border: 0px;
+}
+.img_div .upload_btn{
+    padding: 1px 14px;
+    background-color: rgba(245, 245, 245, 1);
+    border: 1px solid gray;
+    border-radius: 6px;
+    cursor: pointer;
+}
